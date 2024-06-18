@@ -47,7 +47,7 @@ Through this project, I learned how to use Handlebars.js for templating, bcrypt 
 
 ## Usage
 
-![screenshot of the site in use](assets/images/screenshot.png)
+![screenshot of the site in use](assets/screenshot.png)
 
 ## Technologies Used
 
@@ -70,7 +70,7 @@ To set up this project locally for development:
 
 ## Deployment Link
 
-[Click here to go to the deployed site](https://geoschu.github.io/)
+[Click here to go to the deployed site](https://tech-blog5-ca0e60b92376.herokuapp.com/)
 
 ## Credits & Resources
 
