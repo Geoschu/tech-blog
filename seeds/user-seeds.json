@@ -1,0 +1,27 @@
+[
+  {
+    "username": "AishaPatel",
+    "email": "aishapatel@email.com",
+    "password": "password123"
+  },
+  {
+    "username": "CarlosGomez",
+    "email": "carlosgomez@email.com",
+    "password": "password123"
+  },
+  {
+    "username": "XiuLi",
+    "email": "xiuli@email.com",
+    "password": "password123"
+  },
+  {
+    "username": "FatimaAlNasr",
+    "email": "fatimaalnasr@email.com",
+    "password": "password123"
+  },
+  {
+    "username": "JohnOkafor",
+    "email": "johnokafor@email.com",
+    "password": "password123"
+  }
+]
