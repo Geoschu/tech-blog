@@ -1,24 +1,36 @@
-header, .project:not(:last-child) {
-  border-bottom: 1px solid #ccc;
+/* CUSTOM CSS */
+/* Debug */
+.debug-red {
+  outline: 1px solid red;
 }
 
-.no-button {
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  color: #1b89bc;
-  text-decoration: none;
-  font-size: 100%;
+.debug-green {
+  outline: 1px solid green;
 }
 
-.no-button:hover {
-  color: #065b83;
-  text-decoration: underline;
+.debug-blue {
+  outline: 1px solid blue;
 }
 
-.dollar-amount {
-  color: #056605;
-  font-weight: bold;
-  margin-left: -5px;
+.debug-orange {
+  outline: 1px solid orange;
+}
+
+/* Header */
+#header-logo {
+  box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 0.6rem 0.6rem 0 0;
+}
+
+#header-logo-inner {
+  border-radius: 0.3rem;
+}
+
+#header-nav {
+  box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 0.6rem 0.6rem 0 0;
+}
+
+#header-nav a:not(:last-child) {
+  margin-right: 0.4rem;
 }
